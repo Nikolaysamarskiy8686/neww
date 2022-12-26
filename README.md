@@ -1,6 +1,6 @@
-##Обо мне
--мне 16 лет
--учусь в 10 классе
--люблю читать
--регулярно посещаю спортзал
--https://yandex.ru/images/search?pos=2&from=tabbar&img_url=http%3A%2F%2Fphonoteka.org%2Fuploads%2Fposts%2F2022-01%2F1642637767_76-phonoteka-org-p-fon-gori-88.jpg&text=фото&rpt=simage&lr=11188
+## Обо мне
+1. мне 16 лет
+2. учусь в 10 классе
+3. люблю читать
+4. регулярно посещаю спортзал!
+5. [2022-11-06_20-25-08](https://user-images.githubusercontent.com/119064739/209560706-360f4719-8171-44e7-b745-c001b1db4d1f.png)
